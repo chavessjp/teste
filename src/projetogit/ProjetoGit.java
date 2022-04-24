@@ -18,6 +18,7 @@ public class ProjetoGit {
         int i = 20;
         int u = 30;
         
+        double nm = 0.0;
         
     }
     
